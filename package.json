@@ -1,0 +1,15 @@
+{
+  "name": "smv-decoder",
+  "version": "0.0.1",
+  "description": "Decodes smv files",
+  "main": "smv-decoder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jangxx",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "~2.2.0",
+    "jpeg-js": "0.0.3"
+  }
+}
